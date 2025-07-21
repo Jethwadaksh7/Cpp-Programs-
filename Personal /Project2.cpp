@@ -13,3 +13,5 @@ int main() {
     cout<< Tarea(5,10)<<endl;
     return 0;
 }
+// now adding more complex functions
+
