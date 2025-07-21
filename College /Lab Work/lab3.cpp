@@ -1,3 +1,4 @@
+//Implement a menu driver user interactive code for searching methods, namely linear search and binary search… accept the size and elements of an array from user.
 #include <iostream>
 using namespace std;
 
