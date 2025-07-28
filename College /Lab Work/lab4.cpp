@@ -1,4 +1,4 @@
-//given a sorted array with duplicate elemnts… find the first and last occurrence of given number.
+//given a sorted array with duplicate elements… find the first and last occurrence of given number.
 #include <iostream>
 using namespace std;
 
@@ -23,5 +23,5 @@ int main() {
             total++;
         }
     }
-    cout<<"Total number of repearted elements in the array is: "<<total<<endl;
+    cout<<"Total number of repeated elements in the array is: "<<total<<endl;
     }
